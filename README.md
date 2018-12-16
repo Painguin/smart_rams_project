@@ -1,4 +1,6 @@
-# Healthiness and Eco-Friendliness: Two Benchmarks for the Food Distribution
+# Nutrition And Ecology
+
+**Data story**: https://yohoy.github.io/
 
 The dataset is obtained through an open source platform where information about food products are available and updatable by users.
 
@@ -22,5 +24,15 @@ This information is not directly available in the dataset. It will be calculated
 
 The goal will be to rank brands, stores and countries based on the aforementioned criterion. It will even be possible to create an arbitrary label to do so. In addition, different links could be found. For example, it will possible to say if, generally the food of low-quality has a higher carbon footprint. It will be also possible to expose the countries that are more importers than exporters and assess their part of responsibility in making food travel (so the responsibility of ecological impact).
 
- 
+# Contributions:
 
+* David Da Rocha:
+    * Data exploration, cleaning, analysis
+    * Visualization
+    * Data story
+* Pedro Da Cunha:
+    * Data exploration, cleaning, analysis
+    * Visualization
+* Tabish Qureshi:
+    * Data exploration, cleaning, analysis
+    * Visualization 
